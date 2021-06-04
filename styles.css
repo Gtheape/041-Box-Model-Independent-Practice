@@ -1,0 +1,42 @@
+img {
+    height: 200px;
+}
+
+h3 {
+    border: 5px dashed #33ccff;
+    padding: 15px;    
+    border-style: double;
+}
+
+p {
+    border: 3px solid #ff4d94;
+    padding: 10px;
+    margin: 30px;
+    margin-top: 25px;
+}
+
+img {
+   border: 7px dotted black;
+    margin: 15px;
+    padding: 50px;
+}
+
+.dogpic {
+    border: 20px solid brown;
+    margin: 5px;
+    padding: 10px;
+    border-style: outset;
+}
+
+.catpic {
+   border: 15px dotted #1aff1a; 
+    margin: 6px;
+    padding: 10px;
+    border-style: dotted dashed solid double;
+}
+
+ul {
+    border: 1px dashed red;
+    padding: 1px;
+    margin: 1px;
+}
